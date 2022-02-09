@@ -12,4 +12,4 @@ app.use(express.json()); //uso o express
 app.use("/music", musicRoutes); //crio rota raiz de musicas
 app.use("/podcast", podcastRoutes); //crio rota raiz de podcasts
 
-module.exports = app; //exportando para usar 
+module.exports = app; //exportando modulo para usar
