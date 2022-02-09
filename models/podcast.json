@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "Title": "Sinapse",
+      "Year": "2018",
+      "Genre": "Science",
+      "Host": "Pedro Loos, Greg de Souza",
+      "totalEpisodes": "36",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    },
+    {
+      "id": 2,
+      "Title": "Xadrez Verbal",
+      "Year": "2013",
+      "Genre": "News",
+      "Host": " Filipe Figueiredo, Matias Pinto",
+      "totalEpisodes": "250",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    },
+    {
+      "id": 3,
+      "Title": "Não Inviabilize",
+      "Year": "2020",
+      "Genre": "Real History",
+      "Host": "Déia",
+      "totalEpisodes": "30",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    },
+    {
+      "id": 4,
+      "Title": "Fala Dev",
+      "Year": "2018",
+      "Genre": "Tech",
+      "Host": "Diego Fernandes ",
+      "totalEpisodes": "50",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    },
+    {
+      "id": 5,
+      "Title": "NerdCast",
+      "Year": "2006",
+      "Genre": "Geek",
+      "Host": "Alexandre Ottoni, Deive Pazos",
+      "totalEpisodes": "800",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    },
+    {
+      "id": 6,
+      "Title": "Grávidas de Taubaté",
+      "Year": "2018",
+      "Genre": "Enterteinment",
+      "Host": "Ju, Matheus, Lucas",
+      "totalEpisodes": "54",
+      "Language": "Portuguese",
+      "Country": "Brazil"
+    }
+  ]

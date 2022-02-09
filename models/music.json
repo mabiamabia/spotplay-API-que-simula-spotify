@@ -1,0 +1,110 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@prisciladuarte 
+prisciladuarte
+/
+ProjetoFinal-Reprograma
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+ProjetoFinal-Reprograma/code/src/models/music.json
+@prisciladuarte
+prisciladuarte Atualiza banco de dados
+Latest commit 2203d94 on 30 Nov 2021
+ History
+ 1 contributor
+68 lines (68 sloc)  1.42 KB
+   
+[
+  {
+    "id": 1,
+    "Title": "La Isla Bonita",
+    "Year": "1986",
+    "Duration": "4 min",
+    "Genre": "Pop",
+    "Artist": "Madonna",
+    "Writer": "Bruce Gaitsch, Patrick Leonard, Madonna",
+    "Language": "English, Spanish",
+    "Country": "USA"
+  },
+  {
+    "id": 2,
+    "Title": "Love On The Brain",
+    "Year": "2016",
+    "Duration": "3:44 min",
+    "Genre": "Pop",
+    "Artist": "Rihanna",
+    "Writer": "F. Ball, J. Angel, R Fenty",
+    "Language": "English",
+    "Country": "USA"
+  },
+  {
+    "id": 3,
+    "Title": "O Telefone Tocou Novamente",
+    "Year": "1970",
+    "Duration": "3:49 min",
+    "Genre": "Samba Rock",
+    "Artist": "Jorge Ben Jor",
+    "Writer": "Jorge Ben Jor",
+    "Language": "Portuguese",
+    "Country": "Brazil"
+  },
+  {
+    "id": 4,
+    "Title": "Onde o Sol Bate e Se Firma",
+    "Year": "2011",
+    "Duration": "4:10 min",
+    "Genre": "Samba Rock",
+    "Artist": "Zezé Motta",
+    "Writer": "Luiz Melodia",
+    "Language": "Portuguese",
+    "Country": "Brazil"
+  },
+  {
+    "id": 5,
+    "Title": "Alors On Danse",
+    "Year": "2009",
+    "Duration": "3:54 min",
+    "Genre": "Pop",
+    "Artist": "Stromae",
+    "Writer": "Stromae",
+    "Language": "French",
+    "Country": "France"
+  },
+  {
+    "id": 6,
+    "Title": "Alors On Danse",
+    "Year": "2009",
+    "Duration": "3:54 min",
+    "Genre": "Pop",
+    "Artist": "Stromae",
+    "Writer": "Stromae",
+    "Language": "French",
+    "Country": "France"
+  }
+]
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
