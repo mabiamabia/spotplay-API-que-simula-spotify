@@ -33,8 +33,7 @@ Com ou sem o Premium, você pode:
  
  <h4> Exemplos de código: Docker </h4>
  
- ![image](https://user-images.githubusercontent.com/49458473/153309135-d155985d-f536-4bf3-b89e-a697eb4d0dc1.png)
-
+![exemplo-code-docker](https://user-images.githubusercontent.com/49458473/153309245-1750b1c2-47f9-4e7b-bac3-d6ef84761296.png)
 
 <h1> Instruções para iniciar o projeto</h1>
 
