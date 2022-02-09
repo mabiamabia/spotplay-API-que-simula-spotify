@@ -39,7 +39,7 @@ Com ou sem o Premium, você pode:
  * npm i cors
  * npm i express
 
-<h2> Em seguida execute o comando: </h2>
+<h4> Em seguida execute o comando: </h4>
 
 * npm start
 
