@@ -39,6 +39,10 @@ Com ou sem o Premium, você pode:
  * npm i cors
  * npm i express
 
+<h2> Em seguida execute o comando: </h2>
+
+* npm start
+
  <h1>👩‍💻 Desenvolvimento </h1>
  
  <h4 align="right" > 
