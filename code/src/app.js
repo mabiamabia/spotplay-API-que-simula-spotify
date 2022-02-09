@@ -1,15 +1,15 @@
-const express = require("express"); //chamando
-const cors = require("cors"); //chamando
+const express = require("express"); //chamando express
+const cors = require("cors"); //chamando o cors
 
-const musicRoutes = require("./routes/musicRoutes"); //chamando
+const musicRoutes = require("./routes/musicRoutes"); //acesso o "banco de musicas"
 const podcastRoutes = require("./routes/podcastRoutes");
 
-const app = express(); //executo express
+const app = express(); //executa o express
 
-app.use(cors()); //uso
-app.use(express.json()); //uso
+app.use(cors()); //uso o cors
+app.use(express.json()); //uso o express
 
-app.use("/music", musicRoutes); //crio rota raiz de filmes
-app.use("/podcast", podcastRoutes);
+app.use("/music", musicRoutes); //crio rota raiz de musicas
+app.use("/podcast", podcastRoutes); //crio rota raiz de podcasts
 
-module.exports = app; //exportando para usar o server.js
+module.exports = app; //exportando para usar 
