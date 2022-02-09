@@ -29,7 +29,7 @@ const createPodcast = (request, response) => {
 
   response.status(201).json([
     {
-      mensagem: "Podcast cadastrada com sucesso",
+      mensagem: "Podcast cadastrado com sucesso!",
       novaPodcast,
     },
   ]);
@@ -44,7 +44,7 @@ const updateTitle = (request, response) => {
   PodcastFiltrado.Title = novoTitulo;
 
   response.status(200).json({
-    mensagem: "Podcasta atualizada com sucesso",
+    mensagem: "Podcast atualizado com sucesso!",
     PodcastFiltrado,
   });
 };
@@ -62,7 +62,7 @@ const updatePodcast = (request, response) => {
 
   response.status(200).json([
     {
-      mensagem: "podcasta atualizada com sucesso",
+      mensagem: "podcast atualizado com sucesso!",
       podcastJson,
     },
   ]);

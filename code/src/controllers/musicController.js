@@ -63,7 +63,7 @@ const updateMusic = (request, response) => {
 
   response.status(200).json([
     {
-      mensagem: "musica atualizada com sucesso",
+      mensagem: "Musica atualizada com sucesso!",
       musicJson,
     },
   ]);
