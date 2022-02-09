@@ -34,6 +34,7 @@ Com ou sem o Premium, você pode:
 <h1> Instruções para iniciar o projeto</h1>
 
 <h3> Dentro da pasta code, instale: </h3>
+
  * npm install
  * npm i cors
  * npm i express
