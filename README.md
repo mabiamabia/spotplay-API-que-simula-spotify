@@ -11,9 +11,7 @@
 
 O Spotplay é uma API que simula o serviço digital que dá acesso instantâneo a uma lista variada de informações sobre músicas e podcasts, feitos por criadores do mundo todo.
 
-Todas as funções são gratuitas, como solicitar título e compositores de músicas, mas futuramente você poderá contar com novas funcionalidades do upgrade para o Spotplay Premium.
-
-Com ou sem o Premium, você pode:
+Você pode:
 
 * Solicitar informações sobre suas musicas e podcasts favoritos.
 * Solicitar catálogo completo de todas músicas e podcasts disponíveis.
@@ -21,9 +19,6 @@ Com ou sem o Premium, você pode:
 
 <h1>Funcionalidades </h1>
 
-* Administradores podem inserir novas musicas e podcasts.
-* Administradores podem atualizar dados de musicas e podcasts.
-* Administradores podem excluir musicas e podcasts.
 * Usuarios podem solicitar pesquisa de musicas e podcasts por ID.
 * Usuarios podem solicitar catálogo completo de músicas e podcasts.
 * Aprender novas informações e curiosidades sobre seus títulos preferidos.
